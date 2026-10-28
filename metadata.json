@@ -1,0 +1,6 @@
+{
+  "name": "AuraCare - HIV Care & Maternal Health Companion",
+  "description": "Comprehensive, compassionate HIV medication adherence, CD4 and viral load tracking, appointment scheduling, and specialized PMTCT maternal health support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
